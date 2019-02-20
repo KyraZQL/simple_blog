@@ -1,0 +1,13 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kyraz.myapplication.FeedsActivity">
+    <item
+        android:id="@+id/action_profile"
+        android:title="Profile"
+        app:showAsAction="never"
+        android:icon="@drawable/ic_person_outline_black_24dp">
+    </item>
+
+</menu>

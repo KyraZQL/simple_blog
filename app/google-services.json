@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "840464780066",
+    "firebase_url": "https://final-project-kyrazql.firebaseio.com",
+    "project_id": "final-project-kyrazql",
+    "storage_bucket": "final-project-kyrazql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840464780066:android:d3c190f37d1163ae",
+        "android_client_info": {
+          "package_name": "edu.illinois.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840464780066-qrhi4rk8tnhjmi7uknv3ip6gv204o2se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.illinois.finalproject",
+            "certificate_hash": "66fcbf318042a45a75552576eeca2d51a6f57de6"
+          }
+        },
+        {
+          "client_id": "840464780066-9vkg4bpmtu54en6aj6tdkppvqg5kttnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoEiom5Wp3JiKrNYXBAiGZaPglmbdJ5M0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840464780066-9vkg4bpmtu54en6aj6tdkppvqg5kttnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

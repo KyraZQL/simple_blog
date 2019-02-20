@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kyraz.myapplication.NewPostActivity">
+
+    <item
+        android:id="@+id/action_submit"
+        android:checkable="true"
+        android:enabled="true"
+        android:icon="@mipmap/ic_done_white_24dp"
+        android:title="Submit"
+        android:visible="true"
+        app:showAsAction="always"></item>
+</menu>
